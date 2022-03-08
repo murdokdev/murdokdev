@@ -1,6 +1,6 @@
 
 - 👋 Olá, sou @murdokdev
-- 👀 Estou interessado em me tornar um programador front end
+- 👀 Estou interessado na área de programação
 - 🌱 atualmente estou aprendendo GIT e GITHUB
 
 <!---
