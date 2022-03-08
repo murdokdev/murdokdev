@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 Estudando programação /trabalhando no Banco do Brasil S/A <br/>
 
-Eu sou desenvolvedor front end.
+Estou me tornando um desenvolvedor front end.
 
 <p align="left">
   <a href="#" alt="Gmail">
